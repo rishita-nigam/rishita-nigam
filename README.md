@@ -21,6 +21,6 @@
 ## Featured Projects
 - ⚡ [Fault Detection — IEEE 30-Bus](link) — 87.5% accuracy, 5 fault classes
 - 🏝️ [Islanding Detection](link) — Isolation Forest + K-Means on PMU data
-- 📡 [RF ATE System — DRDO]([link](https://github.com/rishita-nigam/rf-ate-system)) — Instrument control, GUI, automated reporting
+- 📡 [RF ATE System — DRDO]([https://github.com/rishita-nigam/rf-ate-system]) — Instrument control, GUI, automated reporting
 
 📫 rishitanigam14@gmail.com | [LinkedIn](https://linkedin.com/in/rishitanigam)
