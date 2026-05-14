@@ -1,19 +1,26 @@
 # Rishita Nigam — EEE Engineer
 
 🔭 Power Systems | RF Test Automation | ML for Energy Systems  
-🎓 B.Tech EEE, VIT Vellore — Graduating July 2026  
+🎓 B.Tech EEE, VIT Vellore — Graduated in May 2026  
 🏢 Ex-Intern: DRDO-LRDE (RF ATE) | ISRO-NRSC (Network Tools)  
 
 ## What I Work On
-- RF Automated Test Equipment (Python, PyVISA, SCPI, Tkinter)
-- Power Systems Fault Detection (MATLAB Simulink, scikit-learn)
-- ML for Energy Systems (Isolation Forest, Random Forest, SVM)
+- ⚡ Power Systems Fault Detection & Classification
+- 📡 RF Automated Test Equipment (ATE)
+- 🤖 ML for Energy Systems
+- 🛰️ Network Tools & Automation
+
+- ## Industry Experience
+- 🔬 **DRDO-LRDE** — RF ATE System (Python, PyVISA, SCPI, Tkinter)
+- 🛰️ **ISRO-NRSC** — Network Scanner (Python, Socket Programming)
 
 ## Tech Stack
-`Python` `MATLAB` `Simulink` `scikit-learn` `PyVISA` `LabVIEW` `Tkinter` `NumPy` `pandas`
+`Python` `MATLAB` `Simulink` `scikit-learn` `PyVISA`
+`Tkinter` `NumPy` `pandas` `LabVIEW` `Embedded C`
 
 ## Featured Projects
-- 🔌 [Fault Detection in IEEE 30-Bus System](link) — 87.5% accuracy, 5 fault classes
-- 📡 [RF ATE System — DRDO](link) — Instrument control, GUI, automated reporting
+- ⚡ [Fault Detection — IEEE 30-Bus](link) — 87.5% accuracy, 5 fault classes
+- 🏝️ [Islanding Detection](link) — Isolation Forest + K-Means on PMU data
+- 📡 [RF ATE System — DRDO]([link](https://github.com/rishita-nigam/rf-ate-system)) — Instrument control, GUI, automated reporting
 
 📫 rishitanigam14@gmail.com | [LinkedIn](https://linkedin.com/in/rishitanigam)
