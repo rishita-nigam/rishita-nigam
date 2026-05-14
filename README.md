@@ -20,5 +20,5 @@
 
 ## Featured Projects
 - ⚡ [Fault Detection — IEEE 30-Bus](https://github.com/rishita-nigam/fault-detection-ieee30bus) — 87.5% accuracy, 5 fault classes
-- 🏝️ [Islanding Detection](link) — Isolation Forest + K-Means on PMU data
+- 🏝️ [Islanding Detection](https://github.com/rishita-nigam/pmu-islanding-detection-ieee39) — Isolation Forest + K-Means on PMU data
 📫 rishitanigam14@gmail.com | [LinkedIn](https://linkedin.com/in/rishitanigam)
